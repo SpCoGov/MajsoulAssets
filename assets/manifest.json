@@ -1,0 +1,10 @@
+{
+  "product_version": "4.0.46",
+  "bundle_profile": "ASTC",
+  "bundle_hash": "83b2fb98f029d2ace75337215bba5241a7aacf29",
+  "bundles": 7210,
+  "Texture2D": 13832,
+  "Sprite": 15208,
+  "AudioClip": 0,
+  "failed": 24
+}
