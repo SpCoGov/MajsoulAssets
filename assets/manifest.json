@@ -1,11 +1,11 @@
 {
   "product_version": "4.0.51",
   "bundle_profile": "ASTC",
-  "bundle_hash": "aa5e989ac392a2d7aa5406159f5b62ab2e034e82",
-  "bundles": 7198,
-  "Texture2D": 14089,
-  "Sprite": 15117,
-  "AudioClip": 19439,
+  "bundle_hash": "79283db7d4c121d319813b26c43a4acb69444509",
+  "bundles": 7402,
+  "Texture2D": 14860,
+  "Sprite": 15741,
+  "AudioClip": 20204,
   "failed": 25,
-  "AudioClipMissing": 15
+  "AudioClipMissing": 27
 }
